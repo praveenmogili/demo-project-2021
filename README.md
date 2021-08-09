@@ -1,6 +1,6 @@
 # demo-project-2021
 Sample Demo Project
-Build an app with Fron end in react and back end in Django and dockerize it so that it can be portable. Upload the code to a repo or send it as a zipfile with instructions in readme. 
+Build an app with Fron end in react and back end in Django and dockerize it so that it can be portable. Upload the code to a repo or send it as a zipfile with instructions in readme. UI mockup are not provided intentionally. Use material theme and design it so that it is User friendly interface.
 
 ## Build a Front End
 
@@ -25,3 +25,5 @@ Using google find a way to dockerize this app and provide a docker-compose file 
 ## Setup Authentication using keycloak
 Once the app is working, please setup keycloak using docker images and integrate the demo app with keycloak for users login
 
+## References
+You are free to use code / ideas you get from google. But, need to be able to explain the code and flow and why you chose a certain approach.
